@@ -1,7 +1,8 @@
 {
-  "name": "Laravel Developer Skills",
+  "name": "laravel-developer-skills",
   "description": "Laravel 12+ Developer Skill for Claude AI - Modern PHP framework development guide",
   "version": "1.0.0",
+  "owner": "umutsevimcann",
   "author": {
     "name": "Umut Sevimcan"
   },
