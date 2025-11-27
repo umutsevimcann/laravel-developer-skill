@@ -1,0 +1,16 @@
+{
+  "name": "Laravel Developer Skills",
+  "description": "Laravel 12+ Developer Skill for Claude AI - Modern PHP framework development guide",
+  "version": "1.0.0",
+  "author": {
+    "name": "Umut Sevimcan"
+  },
+  "plugins": [
+    {
+      "name": "laravel-developer",
+      "description": "Laravel 12+ framework expert. Modern PHP and Laravel application development with Eloquent ORM, Blade templates, API development, authentication, authorization, queue systems, event broadcasting, testing, deployment and security.",
+      "source": "./skills/laravel-developer",
+      "version": "1.0.0"
+    }
+  ]
+}
